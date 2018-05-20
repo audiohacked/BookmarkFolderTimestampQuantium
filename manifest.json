@@ -1,8 +1,8 @@
 {
     
     "manifest_version": 2,
-    "name": "BookmarkFolderTimestampQuantium",
-    "version": "0.9",
+    "name": "Bookmark Folder Timestamp for Quantium",
+    "version": "1.0.0.0",
     
     "description": "Adds a default folder name of Local Timestamp",
     "homepage_url": "https://github.com/audiohacked/BookmarkFolderTimestampQuantium",
